@@ -1,4 +1,4 @@
-def imageName="palczak/pandacore:backend"
+def imageName="palczak/backend"
 def dockerTag=""
 def dockerRegistry=""
 def registryCredentials="dockerhub"
